@@ -1,0 +1,27 @@
+Vertical data split by features
+
+Marketing:
+Split 12
+d1 - 0.6766
+d2 - 0.5455
+
+Lumpy:
+Split 8
+d1 - 0.9410
+d2 - 0.9347
+
+Covid:
+Split 10
+d1 - 0.8413
+d2 - 0.8036
+
+Credit:
+Split 12
+d1 - 0.7260
+d2 - 0.6896
+
+Diabetes:
+Split 4
+d1 - 0.7448
+d2 - 0.7171
+ 

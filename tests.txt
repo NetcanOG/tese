@@ -1,0 +1,50 @@
+Vertical = XGBoost binary logistic regression
+Vertical trim = last 25% of the original dataset
+
+marketing:
+https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign
+Local - 0.9029
+Vertical - 0.8583 (29 steps)
+Local (vertical trimmed) - 0.8670
+
+lumpy:
+https://www.kaggle.com/datasets/saurabhshahane/lumpy-skin-disease-dataset/data
+Local - 0.9926
+Vertical - 0.9875 (99 steps)
+Local (vertical trimmed) - 0.9880
+
+covid:
+https://www.kaggle.com/datasets/meirnizri/covid19-dataset
+Local - 0.9679 
+Vertical - 0.9669 (99 steps)
+Local (vertical trimmed) - 0.9655
+
+credit:
+https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
+Local - 0.7808
+Vertical - 0.7602 (97 steps)
+Local (vertical trimmed) - 0.7546
+
+diabetes:
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+Local - 0.7818
+Vertical - 0.7567 (23 steps)
+Local (vertical trimmed) - 0.7112
+
+mushrooms:
+https://www.kaggle.com/datasets/prishasawhney/mushroom-dataset
+Local - 0.5178
+Vertical - 0.5108 (9 steps)
+Local (vertical trimmed) - 0.5312
+
+cardiovascular:
+https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
+Local - 0.7950
+Vertical - 0.7824 (99 steps)
+Local (vertical trimmed) - 0.7891
+
+passenger:
+https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
+Local - 0.9952
+Vertical - 0.9945 (99 steps)
+Local (vertical trimmed) - 0.9946

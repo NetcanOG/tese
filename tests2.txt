@@ -1,0 +1,42 @@
+Vertical = XGBoost binary logistic regression
+Vertical trim = last 25% of the original dataset
+
+marketing:
+https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign
+Local - 0.6772
+Local F1 Score - 0.8504
+Vertical - 0.8583 (29 steps)
+Local (vertical trimmed) - 0.7250
+Local (V.T.) F1 Score - 0.8667
+
+lumpy:
+https://www.kaggle.com/datasets/saurabhshahane/lumpy-skin-disease-dataset/data
+Local - 0.9444
+Local F1 Score -0.9777
+Vertical - 0.9875 (99 steps)
+Local (vertical trimmed) - 0.9427
+Local (V.T.) F1 Score - 0.9781
+
+covid:
+https://www.kaggle.com/datasets/meirnizri/covid19-dataset
+Local - 0.7555
+Local F1 Score - 0.9682
+Vertical - 0.9669 (99 steps)
+Local (vertical trimmed) - 0.7509
+Local (V.T.) F1 Score - 0.9466
+
+credit:
+https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
+Local - 0.6615
+Local F1 Score - 0.8048
+Vertical - 0.7602 (97 steps)
+Local (vertical trimmed) - 0.6607
+Local (V.T.) F1 Score - 0.7982
+
+diabetes:
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+Local - 0.6727
+Local F1 Score - 0.7086 
+Vertical - 0.7567 (23 steps)
+Local (vertical trimmed) - 0.6671
+Local (V.T.) F1 Score - 0.6778
