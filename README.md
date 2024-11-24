@@ -8,7 +8,7 @@ Os datasets utilizados estão todos organizados na pasta "datasets", com a vers�
 
 ### Versões
 
-Existe um python environment "nvflare-env" que deve estar ativado para correr os testes locais e federados, Python 3.10. A versão do NVFlare é a 2.4
+Existe um python environment "nvflare-env" que deve estar ativado para correr os testes locais e federados, Python 3.10. A versão do NVFlare é a 2.4. A pasta "vertical_xgboost_thesis" deve ser inserida no repo da NVFlare em examples/advanced/.
 
 ### Como correr testes locais
 
